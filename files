@@ -1,0 +1,9 @@
+./Assignment-1/bind_shell_port_wrapper.py
+./Assignment-1/bind_shell.nasm
+./Assignment-6/hard_reboot.nasm
+./Assignment-3/egg_hunter.nasm
+./Assignment-4/decoder.nasm
+./Assignment-4/encoder.py
+./Assignment-4/execve-stack.nasm
+./Assignment-2/rev_shell_ip_port_wrapper.py
+./Assignment-2/rev_shell.nasm
